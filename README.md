@@ -18,6 +18,11 @@ To get started with Pikpo, follow the instructions below:
 - Flutter SDK version 3.24.3 or higher
 - Dart SDK (comes with Flutter)
 
+### Branches
+
+- **development**: This branch contains the UI implementation and is intended for ongoing UI development.
+- **feat/video_call**: This branch includes the implementation of the video call feature. If you want to see the results of the video call implementation, you can check this branch.
+
 ### Installation
 
 1. **Clone the repository**:
